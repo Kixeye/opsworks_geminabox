@@ -1,0 +1,11 @@
+I, [2015-06-04T12:33:38.072309 #60792]  INFO -- default-ubuntu-1404: -----> Destroying <default-ubuntu-1404>...
+I, [2015-06-04T12:33:38.934308 #60792]  INFO -- default-ubuntu-1404: You appear to be running Vagrant outside of the official installers.
+I, [2015-06-04T12:33:38.934376 #60792]  INFO -- default-ubuntu-1404: Note that the installers are what ensure that Vagrant has all required
+I, [2015-06-04T12:33:38.934393 #60792]  INFO -- default-ubuntu-1404: dependencies, and Vagrant assumes that these dependencies exist. By
+I, [2015-06-04T12:33:38.934407 #60792]  INFO -- default-ubuntu-1404: running outside of the installer environment, Vagrant may not function
+I, [2015-06-04T12:33:38.934420 #60792]  INFO -- default-ubuntu-1404: properly. To remove this warning, install Vagrant using one of the
+I, [2015-06-04T12:33:38.934432 #60792]  INFO -- default-ubuntu-1404: official packages from vagrantup.com.
+I, [2015-06-04T12:33:39.747802 #60792]  INFO -- default-ubuntu-1404: ==> default: Forcing shutdown of VM...
+I, [2015-06-04T12:33:40.906009 #60792]  INFO -- default-ubuntu-1404: ==> default: Destroying VM and associated drives...
+I, [2015-06-04T12:33:41.193064 #60792]  INFO -- default-ubuntu-1404: Vagrant instance <default-ubuntu-1404> destroyed.
+I, [2015-06-04T12:33:41.195007 #60792]  INFO -- default-ubuntu-1404: Finished destroying <default-ubuntu-1404> (0m3.12s).
